@@ -1,1 +1,2 @@
 This is a sample text created to show the example of git repository.
+This is an updated file.
